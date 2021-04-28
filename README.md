@@ -8,10 +8,10 @@
 #### :open_file_folder: Some of my projects
 
 - [build-tools](https://github.com/Harcyah/build-tools) : My own maven build tools artifact
-- [code-kata](https://github.com/Harcyah/code-kata) : Different code kata practices
+- [code-kata-go](https://github.com/Harcyah/code-kata-go) : Different code kata practices (go)
+- [code-kata-java](https://github.com/Harcyah/code-kata-java) : Different code kata practices (java)
 - [dev-notes](https://github.com/Harcyah/dev-notes) : My development notes
 - [html-sandbox](https://github.com/Harcyah/html-sandbox) : Sandbox HTML page with Angular+Bootstrap
-- [misc-tools](https://github.com/Harcyah/misc-tools) : A random collection of java tools
 - [pop-commons](https://github.com/Harcyah/pop-commons) : A collection of java helpers
 - [sample-wsdl-to-java](https://github.com/Harcyah/sample-wsdl-to-java) : A sample java project showing to use maven to convert WSDL to java classes
 - [sample-customize-assertj](https://github.com/Harcyah/sample-customize-assertj) : A sample java project showing to use maven to customize assertj assertions
