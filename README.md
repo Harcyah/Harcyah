@@ -16,6 +16,7 @@
 - [sample-customize-assertj](https://github.com/Harcyah/sample-customize-assertj) : A sample java project showing to use maven to customize assertj assertions
 - [sample-spring-integration](https://github.com/Harcyah/sample-spring-integration) : A sample java project showing to use spring integration
 - [sample-wsdl-to-java](https://github.com/Harcyah/sample-wsdl-to-java) : A sample java project showing to use maven to convert WSDL to java classes
+- [test-files](https://github.com/Harcyah/test-files) : A collection of development test files
 - [windows-sorter](https://github.com/Harcyah/windows-sorter) : Move & resize windows apps from CLI
 
 #### :game_die: Some of my (very custom) world of warcraft addons
