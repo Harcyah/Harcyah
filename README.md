@@ -13,7 +13,6 @@
 - [code-kata-java](https://github.com/Harcyah/code-kata-java) : Different code kata practices (java)
 - [dev-notes](https://github.com/Harcyah/dev-notes) : My development notes
 - [html-sandbox](https://github.com/Harcyah/html-sandbox) : Sandbox HTML page with Angular+Bootstrap
-- [pop-commons](https://github.com/Harcyah/pop-commons) : A collection of java helpers
 - [sample-customize-assertj](https://github.com/Harcyah/sample-customize-assertj) : A sample java project showing to use maven to customize assertj assertions
 - [sample-spring-integration](https://github.com/Harcyah/sample-spring-integration) : A sample java project showing to use spring integration
 - [sample-wsdl-to-java](https://github.com/Harcyah/sample-wsdl-to-java) : A sample java project showing to use maven to convert WSDL to java classes
