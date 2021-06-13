@@ -7,6 +7,7 @@
 
 #### :open_file_folder: Some of my projects
 
+- [arduino-footpedal](https://github.com/Harcyah/arduino-footpedal) : An arduino project with two footpedals acting as special keyboard
 - [autorun-usb](https://github.com/Harcyah/autorun-usb) : Autorun files for USB music storage
 - [build-tools](https://github.com/Harcyah/build-tools) : My own maven build tools artifact
 - [code-kata-go](https://github.com/Harcyah/code-kata-go) : Different code kata practices (go)
